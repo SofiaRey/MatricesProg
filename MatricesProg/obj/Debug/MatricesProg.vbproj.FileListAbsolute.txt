@@ -1,0 +1,12 @@
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\bin\Debug\MatricesProg.exe.config
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\bin\Debug\MatricesProg.exe
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\bin\Debug\MatricesProg.pdb
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\bin\Debug\MatricesProg.xml
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\obj\Debug\MatricesProg.vbprojAssemblyReference.cache
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\obj\Debug\MatricesProg.Form1.resources
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\obj\Debug\MatricesProg.Resources.resources
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\obj\Debug\MatricesProg.vbproj.GenerateResource.cache
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\obj\Debug\MatricesProg.vbproj.CoreCompileInputs.cache
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\obj\Debug\MatricesProg.exe
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\obj\Debug\MatricesProg.xml
+C:\Users\sofur\source\repos\MatricesProg\MatricesProg\obj\Debug\MatricesProg.pdb
